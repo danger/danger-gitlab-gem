@@ -1,7 +1,7 @@
 # coding: utf-8
 Gem::Specification.new do |spec|
   spec.name          = "danger-gitlab"
-  spec.version       = "1.0.0"
+  spec.version       = "4.0.0"
   spec.authors       = ["Orta Therox", "Juanito Fatas"]
   spec.email         = ["orta.therox@gmail.com", "me@juanitofatas.com"]
   spec.license       = "MIT"
