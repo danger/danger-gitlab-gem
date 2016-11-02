@@ -13,6 +13,6 @@ Gem::Specification.new do |spec|
   spec.files         = %w(README.md LICENSE)
   spec.required_ruby_version = ">= 2.0.0"
 
-  spec.add_runtime_dependency  "danger", "> 4.0"
+  spec.add_runtime_dependency  "danger", ">= 4.0"
   spec.add_runtime_dependency "gitlab", "~> 3.7"
 end
