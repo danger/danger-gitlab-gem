@@ -1,7 +1,7 @@
 # coding: utf-8
 Gem::Specification.new do |spec|
   spec.name          = "danger-gitlab"
-  spec.version       = "4.0.1"
+  spec.version       = "4.3.1"
   spec.authors       = ["Orta Therox", "Juanito Fatas"]
   spec.email         = ["orta.therox@gmail.com", "me@juanitofatas.com"]
   spec.license       = "MIT"
@@ -14,5 +14,5 @@ Gem::Specification.new do |spec|
   spec.required_ruby_version = ">= 2.0.0"
 
   spec.add_runtime_dependency  "danger", ">= 4.0"
-  spec.add_runtime_dependency "gitlab", "~> 3.7"
+  spec.add_runtime_dependency "gitlab", "~> 4.0"
 end
