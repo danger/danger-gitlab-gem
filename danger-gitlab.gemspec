@@ -14,5 +14,5 @@ Gem::Specification.new do |spec|
   spec.required_ruby_version = ">= 2.0.0"
 
   spec.add_runtime_dependency  "danger", ">= 5.0"
-  spec.add_runtime_dependency "gitlab", "~> 4.0"
+  spec.add_runtime_dependency "gitlab", "~> 4.2.0"
 end
